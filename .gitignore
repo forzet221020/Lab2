@@ -1,0 +1,41 @@
+# Build outputs
+bin/
+obj/
+
+# NuGet
+*.nupkg
+# VS
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+*.sln.iml
+
+# Backup files
+*~
+*.backup
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# JetBrains
+*.dotCover
+
+# dotnet local settings
+project.lock.json
+
+# Rider .idea
+.idea/
+
+# Logs
+*.log
+
+# Ignore compiled DLLs
+*.dll
+*.exe
+
+# Ignore packages folder (if present)
+packages/
